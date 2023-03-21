@@ -25,3 +25,37 @@
 #container a {
   text-decoration: none;
 }
+
+ion-col {
+  background-color: #fff;
+  border: solid 1px #fff;
+  color: #fff;
+  text-align: center;
+}
+
+.logoImage{
+  padding: 0;
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 100%;
+  max-height: auto;
+}
+.postImage{
+  padding: 0;
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 100%;
+  max-height: auto;
+}
+
+.bottomTabs{
+  border-radius: 15px 15px 0 0;
+}
+
+hr {
+  width: 90%;
+  height: 2px;
+  background-color: rgb(208,208,208);
+  }
